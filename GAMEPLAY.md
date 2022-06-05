@@ -211,8 +211,6 @@ Septimus includes a minimalistic and modern UI, featuring:
 
   > :ledger: Some people get motion sickness from this mod. It can be safely disabled in Mod Organizer 2.
 
-- [Nordic UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881) - An optional complete user interface overhaul
-
 - [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Provides a new set of highly-detailed 3D or paper world map textures, complete with roads
 
 - [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features
